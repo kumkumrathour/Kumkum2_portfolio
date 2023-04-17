@@ -39,7 +39,7 @@ const SocialLinks = () => {
                Resume <BsFillPersonLinesFill size={30}/>
                 </>
             ),
-            href:'.\KumkumRathourResumeApr.pdf',
+            href:'https://www.canva.com/design/DAFgSv0ZOHE/WrdavnBb3tSTkd8LYuC2Ew/view?utm_content=DAFgSv0ZOHE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink',
             style:'rounded-br-md',
             download:true,
         }
